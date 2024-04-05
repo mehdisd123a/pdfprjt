@@ -2,3 +2,4 @@ tkinter
 reportlab
 canvas
 os
+PIL
